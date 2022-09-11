@@ -8,5 +8,5 @@ Now, Eniac is considering signing a contract with Magist but there are two main 
 1. Eniac’s catalog is 100% tech products, and heavily based on Apple-compatible accessories. It is not clear that the marketplaces Magist works with are a good place for these high-end tech products.
 2. Among Eniac’s efforts to have happy customers, fast deliveries are key. The delivery fees resulting from Magist’s deal with the public Post Office might be cheap, but at what cost? Are deliveries fast enough?
  
-# magist_dump  - Explore the magist tables 
-# project_work  - Answer business questions 
+## magist_dump  - Explore the magist tables 
+## project_work  - Answer business questions 
