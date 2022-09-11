@@ -1,5 +1,5 @@
 # Project_Strategic_Recommendation
-ENIAC and MAGIST 
+##ENIAC and MAGIST 
 Eniac is an online marketplace specializing in Apple-compatible accessories. It was founded 10 years ago in Spain and it has since grown and expanded to other neighboring countries.
 Eniac is exploring an expansion to the Brazilian market. The problem, for Eniac, is the lack of knowledge of such a market. 
 The company doesn’t have ties with local providers, package delivery services, or customer service agencies. 
